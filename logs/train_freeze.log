@@ -1,0 +1,13 @@
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<01:17,  4.00it/s]Loading weights:  50%|████▉     | 155/311 [00:00<00:00, 553.05it/s]Loading weights:  90%|█████████ | 280/311 [00:00<00:00, 787.70it/s]Loading weights: 100%|██████████| 311/311 [00:00<00:00, 655.60it/s]
+[freeze14] оценка базы на 200 примерах
+  validation: 100/200 примеров
+  validation: 200/200 примеров
+[freeze14] устройство cpu, обучаемых 2,523,136 из 598,573,056 (0.422%); шагов 20
+  validation: 100/200 примеров
+  validation: 200/200 примеров
+  шаг 10/20: train 0.3035, val 0.560862
+  validation: 100/200 примеров
+  validation: 200/200 примеров
+  шаг 20/20: train 0.1969, val 0.495531
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[freeze14] 20 шагов за 1014 с; пик памяти 3492 МБ; адаптер 20.55 МБ -> models/adapter_freeze14

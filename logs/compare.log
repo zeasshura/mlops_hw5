@@ -1,0 +1,12 @@
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<01:05,  4.73it/s]Loading weights:  63%|██████▎   | 197/311 [00:00<00:00, 787.44it/s]Loading weights: 100%|██████████| 311/311 [00:00<00:00, 764.70it/s]
+-> metrics/compare_all_layers.json, docs/compare.md
+  база:    'The largest populated city in Arizona is Phoenix.'
+  адаптер: 'Phoenix'
+  база:    '60 mi (97 km)'
+  адаптер: '60 mi'
+  база:    'Optics Valley'
+  адаптер: 'Optics Valley'
+  база:    '520,116'
+  адаптер: '520,116'
+  база:    '996,544.'
+  адаптер: '996,544'
